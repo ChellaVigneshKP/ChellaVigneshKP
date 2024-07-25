@@ -40,7 +40,7 @@ I'm Chella Vignesh K P, a passionate software engineer with experience in Spring
 ---
 <p><img width="100%" align="right" src="https://streak-stats.demolab.com?user=ChellaVigneshKP&hide_border=true&background=232937&ring=FEFE5B&sideNums=FFFFFF&dates=DCDCDC93&stroke=FFFFFF&currStreakLabel=FEFE5B&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="Streak" /></p>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img width="68.5%" align="middle"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Chella_Vignesh_K_P&bg_color=232937&title_color=FEFE5B&text_color=FFFFFF&langs_count=10&layout=compact" alt="Wakatime Stats" />
+  <img width="68.5%" align="middle"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Chella_Vignesh_K_P&bg_color=232937&title_color=FEFE5B&text_color=FFFFFF&custom_title=WakaTime%20Stats%20(last%207%20Days)&langs_count=10&layout=compact" alt="Wakatime Stats" />
   <img width="31%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChellaVigneshKP&bg_color=232937&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false" alt="Most Used Languages" />
 </div>
 
