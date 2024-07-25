@@ -38,7 +38,7 @@ I'm Chella Vignesh K P, a passionate software engineer with experience in Spring
 - I used to play the keyboard and have actively participated in NCC during my college years.
 
 ---
-<p><img width="100%" align="right" src="https://streak-stats.demolab.com?user=ChellaVigneshKP&theme=dark&hide_border=true&background=EB545400&currStreakLabel=FEFE5B&ring=FEFE5B" alt="Streak" /></p>
+<p><img width="100%" align="right" src="https://streak-stats.demolab.com?user=ChellaVigneshKP&hide_border=true&background=000000&ring=FEFE5B&sideNums=FFFFFF&dates=DCDCDC93&stroke=FFFFFF&currStreakLabel=FEFE5B&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="Streak" /></p>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img width="30%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChellaVigneshKP&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false" alt="Most Used Languages" />
   <img width="65%" align="middle"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Chella_Vignesh_K_P&theme=radical" alt="Wakatime Stats" />
