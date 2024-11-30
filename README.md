@@ -4,8 +4,6 @@
 ## Hi there 👋
 I'm Chella Vignesh K P, a passionate software engineer with experience in Spring, Angular, Linux, PostgreSQL, and Docker. Currently, I'm exploring data science and expanding my skills in various technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChellaVigneshKP&color=blue&style=flat)
-
 ### Languages and Tools:
 <p><img width="100%" align="center" src="https://skillicons.dev/icons?i=aws,bootstrap,css,docker,spring,java,c,git,github,html,js,kubernetes,linux,mysql,nextjs,nodejs,npm,postgres,react,tailwind,threejs,vscode,yarn,typescript,angular,maven,bash,jenkins,python,kafka,blender,photoshop,illustrator,rabbitmq" alt="Chella Vignesh's Skills" /></p>
 
